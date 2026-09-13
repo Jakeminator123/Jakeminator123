@@ -11,4 +11,4 @@ Bygger AI-produkter, kundplattformar och praktiska verktyg. Next.js, TypeScript,
 | [DG97](https://github.com/Jakeminator123/DG97) | Next.js-sajt för kontorshotellet DG97 |
 | [Poker integrity dashboard](https://github.com/Jakeminator123/poker-integrity-dashboard) | Detektion av botar och realtidsassistans |
 
-Runtime för Siteagent är privat. Publik förstanivå: [sajtagent-sprites-overview](https://github.com/Jakeminator123/sajtagent-sprites-overview).
+Runtime för Siteagent är privat. Publik karta (inte koden): [OVERVIEW-sajtagent-sprites](https://github.com/Jakeminator123/OVERVIEW-sajtagent-sprites).
